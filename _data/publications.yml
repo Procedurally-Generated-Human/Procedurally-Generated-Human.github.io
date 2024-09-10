@@ -5,15 +5,7 @@ main:
     conference_short: ICCKE
     conference: 14th International Conference on Computer and Knowledge Engineering <strong>(ICCKE)</strong>, 2024.
     pdf: https://www.github.com
-    image: ./assets/img/vfc-rl.png
-    notes: Accepted
-
-  - title: "Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computing"
-    authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
-    conference_short: ICCKE
-    conference: 14th International Conference on Computer and Knowledge Engineering <strong>(ICCKE)</strong>, 2024.
-    pdf: https://www.github.com
-    image: ./assets/img/vfc-rl-2.png
+    image: ./assets/img/vfc-rl-3.png
     notes: Accepted
 
   - title: "Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy and Future Directions"
@@ -21,7 +13,15 @@ main:
     conference_short: arXiv
     conference: arXiv 2024.
     pdf: https://www.github.com
-    image: ./assets/img/aqm-ml.png
+    image: ./assets/img/aqm-ml-2.png
+    notes: Preprint
+    
+  - title: "Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy and Future Directions"
+    authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
+    conference_short: arXiv
+    conference: arXiv 2024.
+    pdf: https://www.github.com
+    image: ./assets/img/aqm-ml-3.png
     notes: Preprint
 
   - title: "Application of Deep Reinforcement Learning in Semi-Active Control of Frame Structures Equipped with Multiple Damper Devices"
