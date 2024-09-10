@@ -22,8 +22,8 @@ Seeking master's position for Fall 2025
 
 ## Experience
 
-<div style="max-width: 800px;margin: auto;background-color: white;padding: 20px;box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #333;text-align: center;margin-bottom: 30px;">Professional Experience</h2>
+<div style="max-width: 800px;margin: auto;background-color: white;padding: 20px;box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color:transparent;">
+        <h2 style="color: #333;text-align: center;margin-bottom: 30px; background-color:transparent;">Professional Experience</h2>
         
 <!-- Experience Item 1 -->
 <div style="
@@ -31,6 +31,7 @@ Seeking master's position for Fall 2025
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
+    background-color:transparent;
 ">
     <h3 style="color: #0066cc; margin-top: 0;">
         Software Engineer
@@ -49,6 +50,7 @@ Seeking master's position for Fall 2025
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
+    background-color:transparent;
 ">
     <h3 style="color: #0066cc; margin-top: 0;">
         Junior Developer
@@ -61,21 +63,4 @@ Seeking master's position for Fall 2025
     </ul>
 </div>
 
-<!-- Experience Item 3 -->
-<div style="
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 15px;
-    margin-bottom: 20px;
-">
-    <h3 style="color: #0066cc; margin-top: 0;">
-        Intern
-    </h3>
-    <p style="color: #666; margin-bottom: 15px;">Third Company | Third Location | Duration (e.g., May 2018 - Aug 2018)</p>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Learned and implemented best practices for software development</li>
-        <li>Contributed to small projects and bug fixes under supervision</li>
-        <li>Attended workshops on version control and agile methodologies</li>
-    </ul>
-</div>
 </div>
