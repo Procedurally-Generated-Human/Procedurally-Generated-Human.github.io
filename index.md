@@ -3,14 +3,12 @@ layout: homepage
 ---
 
 
-<center>
 <table>
   <tr>
     <th>Seeking Master’s position for Fall 2025</th>
   </tr>
   <tr>
 </table>
-</center>
 
 ## About Me
 
