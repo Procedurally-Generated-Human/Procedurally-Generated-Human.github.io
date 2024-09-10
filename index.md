@@ -2,17 +2,11 @@
 layout: homepage
 ---
 
-<div style="background-color:rgba(250, 230, 7, 1);">
+<div style="background-color:rgba(1, 121, 236, 0.2); border-left:10px solid #e5e5e5; margin:20px; padding:10px 10px 10px 20px; font-style:italic">
 
-> this is a note 1
->
-> the is is still the note
+Seeking master's position for Fall 2025
 
 </div>
-
-  <blockquote>
-    <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
-  </blockquote>
 
 ## About Me
 
