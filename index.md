@@ -3,12 +3,12 @@ layout: homepage
 ---
 
 
-<table>
-  <tr>
-    <th>Seeking Master’s position for Fall 2025</th>
-  </tr>
-  <tr>
-</table>
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## About Me
 
