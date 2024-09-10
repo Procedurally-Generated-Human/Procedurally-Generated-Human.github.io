@@ -2,25 +2,18 @@
 layout: homepage
 ---
 
-|--------------|
-| head1        |
-|:-------------|
+<div style="background-color:rgba(250, 230, 7, 1);">
 
-|:-------------|
-| head1        |
-|:-------------|
+> this is a note 1
+>
+> the is is still the note
 
-|--------------|
-| ok           |
-|--------------|
+</div>
 
-
-> Seeking Master's positions for Fall 2025
 ## About Me
 
-My full name is Mohammad Parsa Toopchinezhad. I am a final year BSc student studying Computer Engineering at Razi University; experienced with research and teaching. Throughout my studies, I have primarily focused on Machine Learning (ML)--particularly Reinforcement Learning (RL)--which I have successfully applied to solve various simulated and real-world problems. Currently, I am working with my supervisor, [Dr.Ahmadi](https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en), to develop adaptable ML agents for next-generation computer networks.
+My full name is Mohammad Parsa Toopchinezhad. I am a final year BSc student studying Computer Engineering at Razi University; experienced with research and teaching. Throughout my studies, I have primarily focused on Machine Learning (ML)--particularly Reinforcement Learning (RL)--which I have successfully applied to solve various simulated and real-world problems. Currently, I am working with my supervisor, [Dr.Ahmadi](https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en), to develop adaptable ML agents for next-generation computer networks. 
 
-> Seeking Master's positions for Fall 2025
 
 ## Research Interests
 
