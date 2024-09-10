@@ -26,17 +26,18 @@ Seeking master's position for Fall 2025
 <div style="
     border-radius: 5px;
     padding: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background-color:transparent;
 ">
     <h3 style="color: #3eb7f0; margin-top: 0;">
-        Software Engineer
+        Research & Development Intern
     </h3>
-    <p style="color: #666; margin-bottom: 15px;">Company Name | Location | Duration (e.g., Jan 2020 - Present)</p>
+    <p style="color: #666; margin-bottom: 15px;">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024)</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Developed responsive web applications using React and Node.js</li>
-        <li>Implemented RESTful APIs and integrated third-party services</li>
-        <li>Collaborated with cross-functional teams to deliver high-quality software solutions</li>
+        <li>s</li>
+        <li>Worked on the R&D team developing a transmission tower managment system </li>
+        <li>Designed a light-weight, multi-staged human detection algorithm utilizing background subtraction models and CNNs</li>
+        <li>Implemented and tested code on raspberry pi computers</li>
     </ul>
 </div>
 
@@ -44,18 +45,17 @@ Seeking master's position for Fall 2025
 <div style="
     border-radius: 5px;
     padding: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background-color:transparent;
 ">
     <h3 style="color: #3eb7f0; margin-top: 0;">
-        Junior Developer
+        Founder & Chairman
     </h3>
-    <p style="color: #666; margin-bottom: 15px;">Another Company | Another Location | Duration (e.g., Jun 2019 - Dec 2019)</p>
+    <p style="color: #666; margin-bottom: 15px;">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024)</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Assisted in the development of a mobile app using Flutter</li>
-        <li>Contributed to the optimization of existing codebases for improved performance</li>
-        <li>Participated in code reviews and implemented feedback</li>
+        <li>Led a multidisciplinary group of students as chairman</li>
+        <li>Participating in various educational and project-based activities</li>
+        <li>Instructor of 6-part course on Machine Learning algorithms</li>
+        <li>Instructor of course titled “PyTorch in 1 hour”</li>
     </ul>
-</div>
-
 </div>
