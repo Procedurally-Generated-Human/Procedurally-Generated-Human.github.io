@@ -22,18 +22,14 @@ Seeking master's position for Fall 2025
 
 ## Experience
 
-<div style="max-width: 800px;margin: auto;background-color: white;padding: 20px;box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color:transparent;">
-        <h2 style="color: #333;text-align: center;margin-bottom: 30px; background-color:transparent;">Professional Experience</h2>
-        
 <!-- Experience Item 1 -->
 <div style="
-    border: 1px solid #ddd;
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
     background-color:transparent;
 ">
-    <h3 style="color: #0066cc; margin-top: 0;">
+    <h3 style="color: #3eb7f0; margin-top: 0;">
         Software Engineer
     </h3>
     <p style="color: #666; margin-bottom: 15px;">Company Name | Location | Duration (e.g., Jan 2020 - Present)</p>
@@ -46,13 +42,12 @@ Seeking master's position for Fall 2025
 
 <!-- Experience Item 2 -->
 <div style="
-    border: 1px solid #ddd;
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
     background-color:transparent;
 ">
-    <h3 style="color: #0066cc; margin-top: 0;">
+    <h3 style="color: #3eb7f0; margin-top: 0;">
         Junior Developer
     </h3>
     <p style="color: #666; margin-bottom: 15px;">Another Company | Another Location | Duration (e.g., Jun 2019 - Dec 2019)</p>
