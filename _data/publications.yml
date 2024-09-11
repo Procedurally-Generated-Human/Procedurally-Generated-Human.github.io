@@ -16,13 +16,13 @@ main:
   #   image: ./assets/img/vfc-rl-3.png
   #   notes: Accepted
 
-  # - title: "Application of Deep Reinforcement Learning in Semi-Active Control of Frame Structures Equipped with Multiple Damper Devices"
-  #   authors: Mohammad Parsa Toopchinezhad, Mostafa Toopchinezhad, Hamid Toopchi-Nezhad
-  #   conference_short: SEE9
-  #   conference: Ninth International Conference on Seismology and Earthquake Engineering <strong>(SEE9)</strong>, 2024.
-  #   pdf: https://www.researchgate.net/publication/380999177_Application_of_Deep_Reinforcement_Learning_in_Semi-Active_Control_of_Frame_Structures_Equipped_with_Multiple_Damper_Devices
-  #   image: ./assets/img/sac-rl.png
-  #   notes: Published
+  - title: "Application of Deep Reinforcement Learning in Semi-Active Control of Frame Structures Equipped with Multiple Damper Devices"
+    authors: Mohammad Parsa Toopchinezhad, Mostafa Toopchinezhad, Hamid Toopchi-Nezhad
+    conference_short: SEE9
+    conference: Ninth International Conference on Seismology and Earthquake Engineering <strong>(SEE9)</strong>, 2024.
+    pdf: https://www.researchgate.net/publication/380999177_Application_of_Deep_Reinforcement_Learning_in_Semi-Active_Control_of_Frame_Structures_Equipped_with_Multiple_Damper_Devices
+    image: ./assets/img/sac-rl.png
+    notes: Published
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
