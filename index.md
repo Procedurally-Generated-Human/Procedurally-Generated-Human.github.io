@@ -26,13 +26,12 @@ Seeking master's position for Fall 2025
 <div style="
     border-radius: 5px;
     padding: 15px;
-    margin-bottom: 10px;
     background-color:transparent;
 ">
     <h3 style="color: #3eb7f0; margin-top: 0;">
         Research & Development Intern
     </h3>
-    <p style="color: #666; margin-bottom: 15px;">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024)</p>
+    <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
         <li>Worked on the R&D team developing a transmission tower managment system </li>
         <li>Designed a light-weight, multi-staged human detection algorithm utilizing background subtraction models and CNNs</li>
@@ -44,13 +43,12 @@ Seeking master's position for Fall 2025
 <div style="
     border-radius: 5px;
     padding: 15px;
-    margin-bottom: 10px;
     background-color:transparent;
 ">
     <h3 style="color: #3eb7f0; margin-top: 0;">
         Founder & Chairman
     </h3>
-    <p style="color: #666; margin-bottom: 15px;">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024)</p>
+    <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
         <li>Led a multidisciplinary group of students as chairman</li>
         <li>Participating in various educational and project-based activities</li>
@@ -62,14 +60,13 @@ Seeking master's position for Fall 2025
 <div style="
     border-radius: 5px;
     padding: 15px;
-    margin-bottom: 10px;
     background-color:transparent;
 ">
     <h3 style="color: #3eb7f0; margin-top: 0;">
         Teaching Assistant
     </h3>
-    <p style="color: #666; margin-bottom: 15px;">Razi University | Kermanshah | Sep 2022 - Present)</p>
-    <ul style="list-style-type: disc; padding-left: 20px;">
+    <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi University | Kermanshah | Sep 2022 - Present)</p>
+    <ul style="list-style-type: disc; padding-left: 20px; ">
         <li><i>Computer Networks</i> TA under supervision of <a href="https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en">Dr. Ahmadi</a></li>
                 <li><i>Algorithm Design</i> TA under supervision of <a href="https://scholar.google.com/citations?user=0-MY9rYAAAAJ&hl=en">Dr. Fathinezhad</a> and <a href="https://scholar.google.com/citations?hl=en&user=PPq5ipEAAAAJ&">Dr. Shafiee</a> (2 semesters)</li>
         <li><i>Technical English</i> TA under supervision of <a href="https://scholar.google.com/citations?hl=en&user=C1-FBkUAAAAJ&">Dr. Chalechale</a> (2 semesters)</li>        
