@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My full name is Mohammad Parsa Toopchinezhad. I am a final year BSc student studying Computer Engineering at Razi University; experienced with research and teaching. Throughout my studies, I have primarily focused on Machine Learning (ML)--particularly Reinforcement Learning (RL)--which I have successfully applied to solve various simulated and real-world problems. Currently, I am working with my supervisor, [Dr. Ahmadi](https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en), to develop adaptable ML agents for next-generation computer networks. 
+My full name is Mohammad Parsa Toopchinezhad. I am a final year Computer Engineering student at Razi University; experienced with research and teaching. Throughout my studies, I have primarily focused on Machine Learning (ML)--particularly Reinforcement Learning (RL)--which I have successfully applied to solve various simulated and real-world problems. Currently, I am working with my supervisor, [Dr. Ahmadi](https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en), to develop adaptable ML agents for next-generation computer networks. 
 
 <div style="background-color:rgba(1, 121, 236, 0.2); border-left:5px solid #3eb7f0; margin:20px; padding:7px 10px 7px 20px; font-style:italic;">
 
@@ -33,9 +33,9 @@ Seeking master's position for Fall 2025
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Worked on the R&D team developing a transmission tower managment system </li>
-        <li>Designed a light-weight, multi-staged human detection algorithm utilizing background subtraction models and CNNs</li>
-        <li>Implemented and tested code on raspberry pi computers</li>
+        <li>Worked on the R&D team developing a transmission tower management system </li>
+        <li>Designed a light-weight, multistaged human detection algorithm utilizing background subtraction models and CNNs</li>
+        <li>Implemented and tested code on Raspberry Pi computers</li>
     </ul>
 </div>
 
@@ -45,7 +45,7 @@ Seeking master's position for Fall 2025
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: 0;">
+    <h3 style="color: #3eb7f0; margin-top: -10px;">
         Founder & Chairman
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
@@ -62,7 +62,7 @@ Seeking master's position for Fall 2025
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: 0;">
+    <h3 style="color: #3eb7f0; margin-top: -10px;">
         Teaching Assistant
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi University | Kermanshah | Sep 2022 - Present)</p>
@@ -74,9 +74,11 @@ Seeking master's position for Fall 2025
 </div>
 
 
+
 ## Skills and Tools
 
-- **Data Science:** PyTorch, Tensorflow, Scikit-learn, Matplotlib, Pandas, Numpy
-- **Web Development:** Django, Flask, ASP.NET, HTML, CSS, Javascript
+- **Data Science:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, Pandas, NumPy
+- **Web Development:** Django, Flask, ASP.NET, HTML, CSS, JavaScript
 - **Misc.** CUDA, Verilog, LaTeX
 - **General:** Git, Linux, Research, Presentation
+
