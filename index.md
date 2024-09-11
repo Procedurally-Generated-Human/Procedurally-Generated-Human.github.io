@@ -22,13 +22,30 @@ Seeking master's position for Fall 2025
 
 ## Experience
 
-<!-- Experience Item 1 -->
+
 <div style="
     border-radius: 5px;
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: 0;">
+    <h3 style="color: #3eb7f0; margin-top: 0px;">
+        Teaching Assistant
+    </h3>
+    <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi University | Kermanshah | Sep 2022 - Present</p>
+    <ul style="list-style-type: disc; padding-left: 20px; ">
+        <li><i>Computer Networks</i> TA under supervision of <a href="https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en">Dr. Ahmadi</a></li>
+                <li><i>Algorithm Design</i> TA under supervision of <a href="https://scholar.google.com/citations?user=0-MY9rYAAAAJ&hl=en">Dr. Fathinezhad</a> and <a href="https://scholar.google.com/citations?hl=en&user=PPq5ipEAAAAJ&">Dr. Shafiee</a> (2 semesters)</li>
+        <li><i>Technical English</i> TA under supervision of <a href="https://scholar.google.com/citations?hl=en&user=C1-FBkUAAAAJ&">Dr. Chalechale</a> (2 semesters)</li>        
+    </ul>
+</div>
+
+
+<div style="
+    border-radius: 5px;
+    padding: 15px;
+    background-color:transparent;
+">
+    <h3 style="color: #3eb7f0; margin-top: -15px;">
         Research & Development Intern
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024</p>
@@ -39,13 +56,13 @@ Seeking master's position for Fall 2025
     </ul>
 </div>
 
-<!-- Experience Item 2 -->
+
 <div style="
     border-radius: 5px;
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: -10px;">
+    <h3 style="color: #3eb7f0; margin-top: -15px;">
         Founder & Chairman
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
@@ -54,22 +71,6 @@ Seeking master's position for Fall 2025
         <li>Participating in various educational and project-based activities</li>
         <li>Instructor of 6-part course on Machine Learning algorithms</li>
         <li>Instructor of course titled “PyTorch in 1 hour”</li>
-    </ul>
-</div>
-
-<div style="
-    border-radius: 5px;
-    padding: 15px;
-    background-color:transparent;
-">
-    <h3 style="color: #3eb7f0; margin-top: -10px;">
-        Teaching Assistant
-    </h3>
-    <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi University | Kermanshah | Sep 2022 - Present)</p>
-    <ul style="list-style-type: disc; padding-left: 20px; ">
-        <li><i>Computer Networks</i> TA under supervision of <a href="https://scholar.google.com/citations?user=nLI3EwoAAAAJ&hl=en">Dr. Ahmadi</a></li>
-                <li><i>Algorithm Design</i> TA under supervision of <a href="https://scholar.google.com/citations?user=0-MY9rYAAAAJ&hl=en">Dr. Fathinezhad</a> and <a href="https://scholar.google.com/citations?hl=en&user=PPq5ipEAAAAJ&">Dr. Shafiee</a> (2 semesters)</li>
-        <li><i>Technical English</i> TA under supervision of <a href="https://scholar.google.com/citations?hl=en&user=C1-FBkUAAAAJ&">Dr. Chalechale</a> (2 semesters)</li>        
     </ul>
 </div>
 
