@@ -10,8 +10,8 @@ main:
 
   # - title: "Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computing"
   #   authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
-  #   conference_short: ICCKE
-  #   conference: 14th International Conference on Computer and Knowledge Engineering <strong>(ICCKE)</strong>, 2024.
+  #   conference_short: ?
+  #   conference: ???
   #   pdf: https://www.github.com
   #   image: ./assets/img/vfc-rl-3.png
   #   notes: Accepted
