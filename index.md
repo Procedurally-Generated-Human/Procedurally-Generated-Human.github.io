@@ -78,10 +78,11 @@ Seeking master's position for Fall 2025
 
 ## Skills and Tools
 
-- **Data Science:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, Pandas, NumPy
+- **Data Science & ML:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, Pandas, NumPy
+- **Reinforcement Learning:** Gym/Gymnasium, StableBaselines3, RLlib
 - **Web Development:** Django, Flask, ASP.NET, HTML, CSS, JavaScript
-- **Misc.** CUDA, Verilog, LaTeX
-- **General:** Git, Linux, Research, Presentation
+- **Miscellaneous:** CUDA, Verilog, Git, Linux, LaTeX 
+- **General:**Research, Presentation, Teaching
 
 
 
