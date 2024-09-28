@@ -45,7 +45,7 @@ Seeking master's position for Fall 2025
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: -15px;">
+    <h3 style="color: #3eb7f0; margin-top: -25px;">
         Research & Development Intern
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Nirooye Gharb | Kermanshah | Jun 2024 - Sep 2024</p>
@@ -62,7 +62,7 @@ Seeking master's position for Fall 2025
     padding: 15px;
     background-color:transparent;
 ">
-    <h3 style="color: #3eb7f0; margin-top: -15px;">
+    <h3 style="color: #3eb7f0; margin-top: -35px;">
         Founder & Chairman
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
@@ -85,10 +85,12 @@ Seeking master's position for Fall 2025
 
 
 
-## Presentations & Videos
+## My Presentations & Videos
 
 - **Accelerating Neural Networks with CUDA** <a href="https://procedurally-generated-human.github.io/assets/files/slides/CuDNN-Presentation.pdf">[Slides]</a>
-- **Data Augmentation for Image Segmentation:** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Segmentation-Presentation.pdf">[Slides]</a>
+- **Data Augmentation for Image Segmentation** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Segmentation-Presentation.pdf">[Slides]</a>
 - **Ray-casting and the First 3D Games** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Raycasting-Presentation.pdf">[Slides]</a>
 - **Retrieval Augmented Generation--Merging LLMs with IR** <a href="https://procedurally-generated-human.github.io/assets/files/slides/RAG-Presentation.pdf">[Slides]</a>
-- **Reinforcement Learning for Quadcopter Control (adapted from this paper)** <a href="https://procedurally-generated-human.github.io/assets/files/slides/TinyRL-Presentation.pdf">[Slides]</a>
+- **Reinforcement Learning for Quadcopter Control** <a href="https://procedurally-generated-human.github.io/assets/files/slides/TinyRL-Presentation.pdf">[Slides]</a>
+- **Machine Learning: A Theoritical and Practical Guide (6-Part Video Series, in Persian)** <a href="https://www.aparat.com/v/2by7z?playlist=10389154">[Playlist]</a>
+- **PyTorch in 1 Hour (In Persian)** <a href="https://www.aparat.com/v/i192s36">[Video]</a>
