@@ -83,3 +83,12 @@ Seeking master's position for Fall 2025
 - **Misc.** CUDA, Verilog, LaTeX
 - **General:** Git, Linux, Research, Presentation
 
+
+
+## Presentations & Videos
+
+- **Accelerating Neural Networks with CUDA** <a href="https://procedurally-generated-human.github.io/assets/files/slides/CuDNN-Presentation.pdf">[Slides]</a>
+- **Data Augmentation for Image Segmentation:** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Segmentation-Presentation.pdf">[Slides]</a>
+- **Ray-casting and the First 3D Games** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Raycasting-Presentation.pdf">[Slides]</a>
+- **Retrieval Augmented Generation--Merging LLMs with IR** <a href="https://procedurally-generated-human.github.io/assets/files/slides/RAG-Presentation.pdf">[Slides]</a>
+- **Reinforcement Learning for Quadcopter Control (adapted from this paper)** <a href="https://procedurally-generated-human.github.io/assets/files/slides/TinyRL-Presentation.pdf">[Slides]</a>
