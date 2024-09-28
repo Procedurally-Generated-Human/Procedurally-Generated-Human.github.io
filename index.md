@@ -92,5 +92,5 @@ Seeking master's position for Fall 2025
 - **Ray-casting and the First 3D Games** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Raycasting-Presentation.pdf">[Slides]</a>
 - **Retrieval Augmented Generation--Merging LLMs with IR** <a href="https://procedurally-generated-human.github.io/assets/files/slides/RAG-Presentation.pdf">[Slides]</a>
 - **Reinforcement Learning for Quadcopter Control** <a href="https://procedurally-generated-human.github.io/assets/files/slides/TinyRL-Presentation.pdf">[Slides]</a>
-- **Machine Learning: A Theoritical and Practical Guide (6-Part Video Series, in Persian)** <a href="https://www.aparat.com/v/2by7z?playlist=10389154">[Playlist]</a>
-- **PyTorch in 1 Hour (In Persian)** <a href="https://www.aparat.com/v/i192s36">[Video]</a>
+- **Machine Learning: A Theoritical and Practical Guide (6-part video series, in Persian)** <a href="https://www.aparat.com/v/2by7z?playlist=10389154">[Playlist]</a>
+- **PyTorch in 1 Hour (in Persian)** <a href="https://www.aparat.com/v/i192s36">[Video]</a>
