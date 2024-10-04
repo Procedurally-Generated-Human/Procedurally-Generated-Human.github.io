@@ -67,7 +67,7 @@ Seeking master's position for Fall 2025
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Led a multidisciplinary group of students as chairman <a href="https://razi-aia.ir/en/"></li>
+        <li>Led a multidisciplinary group of students as chairman. <a href="https://razi-aia.ir/en/">Website</a></li>
         <li>Participating in various educational and project-based activities</li>
         <li>Instructor of 6-part course on Machine Learning algorithms</li>
         <li>Instructor of course titled “PyTorch in 1 hour”</li>
