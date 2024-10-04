@@ -14,9 +14,9 @@ Seeking master's position for Fall 2025
 
 ## Research Interests
 
-- **Reinforcement Learning:** Applied, theoretical, model-based, meta-RL
-- **Computer Networks:** Queue management, routing, resource allocation, IoT optimization
-- **Image Processing:** Data augmentation, object detection, transfer learning
+- **Reinforcement Learning:** applied, theoretical, model-based, meta-RL, multi-agent, ...
+- **Computer Networks:** queue management, routing, resource allocation, SND, VNF, wireless, ...
+- **Machine Learning:** data augmentation, object detection, transfer learning
 
 {% include_relative _includes/publications.md %}
 
@@ -52,7 +52,7 @@ Seeking master's position for Fall 2025
     <ul style="list-style-type: disc; padding-left: 20px;">
         <li>Worked on the R&D team developing a transmission tower management system </li>
         <li>Designed a light-weight, multistaged human detection algorithm utilizing background subtraction models and CNNs</li>
-        <li>Implemented and tested code on Raspberry Pi computers</li>
+        <li>Implemented and tested code on Raspberry Pi computers. Applied RTSP and MQTT protocols</li>
     </ul>
 </div>
 
@@ -67,7 +67,7 @@ Seeking master's position for Fall 2025
     </h3>
     <p style="color: #666; margin-bottom: 15px; margin-top: -10px">Razi AI Association | Kermanshah | Sep 2023 - Aug 2024</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Led a multidisciplinary group of students as chairman</li>
+        <li>Led a multidisciplinary group of students as chairman <a href="https://razi-aia.ir/en/"></li>
         <li>Participating in various educational and project-based activities</li>
         <li>Instructor of 6-part course on Machine Learning algorithms</li>
         <li>Instructor of course titled “PyTorch in 1 hour”</li>
@@ -79,10 +79,10 @@ Seeking master's position for Fall 2025
 ## Skills and Tools
 
 - **Data Science & ML:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, Pandas, NumPy
-- **Reinforcement Learning:** Gym/Gymnasium, StableBaselines3, RLlib
+- **Reinforcement Learning:** Gym/Gymnasium, StableBaselines3, RLlib, NS-3
+- **Miscellaneous:** CUDA, Verilog, Git, Linux, LaTeX
 - **Web Development:** Django, Flask, ASP.NET, HTML, CSS, JavaScript
-- **Miscellaneous:** CUDA, Verilog, Git, Linux, LaTeX 
-- **General:**Research, Presentation, Teaching
+- **General:** Research, Presentation, Teaching, Teamwork
 
 
 
