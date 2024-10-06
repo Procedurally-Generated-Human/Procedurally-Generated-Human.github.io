@@ -3,18 +3,18 @@ main:
   - title: "Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy and Future Directions"
     authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
     conference_short: arXiv
-    conference: arXiv 2024.
+    conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2410.02563
     image: ./assets/img/aqm-ml-3.png
     notes: Preprint
 
-  # - title: "Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computing"
-  #   authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
-  #   conference_short: ?
-  #   conference: ???
-  #   pdf: https://www.github.com
-  #   image: ./assets/img/vfc-rl-3.png
-  #   notes: Accepted
+  - title: "Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computing"
+    authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2410.02563
+    image: ./assets/img/vfc-rl-3.png
+    notes: Preprint
 
   - title: "Application of Deep Reinforcement Learning in Semi-Active Control of Frame Structures Equipped with Multiple Damper Devices"
     authors: Mohammad Parsa Toopchinezhad, Mostafa Toopchinezhad, Hamid Toopchi-Nezhad
