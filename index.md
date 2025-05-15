@@ -24,6 +24,8 @@ The info on this page is probably outdated. Please refer to my CV for the latest
 ## My Presentations & Videos
 
 - **Accelerating Neural Networks with CUDA** <a href="https://procedurally-generated-human.github.io/assets/files/slides/CuDNN-Presentation.pdf">[Slides]</a>
+- **DRL for Delay-Optimized Task Offloading in Vehicular Fog Computing** <a href="https://procedurally-generated-human.github.io/assets/files/slides/VFCRL-Presentation.pdf">[Slides]</a>
+- **Scheduling in the Cloud: A Theoretical and Simulation-Centered Guide** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Cloud-Presentation.pdf">[Slides]</a>
 - **Data Augmentation for Image Segmentation** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Segmentation-Presentation.pdf">[Slides]</a>
 - **Ray-casting and the First 3D Games** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Raycasting-Presentation.pdf">[Slides]</a>
 - **Retrieval Augmented Generation--Merging LLMs with IR** <a href="https://procedurally-generated-human.github.io/assets/files/slides/RAG-Presentation.pdf">[Slides]</a>
