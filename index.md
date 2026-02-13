@@ -25,6 +25,11 @@ The info on this page might be outdated. Please refer to <a href="https://proced
 ## My Presentations & Videos
 
 - **Accelerating Neural Networks with CUDA** <a href="https://procedurally-generated-human.github.io/assets/files/slides/CuDNN-Presentation.pdf">[Slides]</a>
+- **A Beginner's Guide to MPI** <a href="https://github.com/Procedurally-Generated-Human/Procedurally-Generated-Human.github.io/blob/main/assets/files/slides/Beginner's-Guide-To-MPI-Presentation.pdf">[Slides]</a>
+- **INTELLECT-1 Technical Report: Presentation** <a href="https://github.com/Procedurally-Generated-Human/Procedurally-Generated-Human.github.io/blob/main/assets/files/slides/INTELLECT-1-Technical%20Report-Presentation.pdf">[Slides]</a>
+- **Federated Hyperparameter Tuning** <a href="https://github.com/Procedurally-Generated-Human/Procedurally-Generated-Human.github.io/blob/main/assets/files/slides/Federated-Hyperparameter-Tuning-Presentation.pdf">[Slides]</a>
+- **Multi-Horizon Network Metric Forecasting with Uncertainty Estimation** <a href="https://github.com/Procedurally-Generated-Human/Procedurally-Generated-Human.github.io/blob/main/assets/files/slides/COMP6321-Project-Presentation.pdf
+">[Slides]</a>
 - **DRL for Delay-Optimized Task Offloading in Vehicular Fog Computing** <a href="https://procedurally-generated-human.github.io/assets/files/slides/VFCRL-Presentation.pdf">[Slides]</a>
 - **Scheduling in the Cloud: A Theoretical and Simulation-Centered Guide** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Cloud-Presentation.pdf">[Slides]</a>
 - **Data Augmentation for Image Segmentation** <a href="https://procedurally-generated-human.github.io/assets/files/slides/Segmentation-Presentation.pdf">[Slides]</a>
