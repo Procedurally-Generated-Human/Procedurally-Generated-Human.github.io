@@ -1,5 +1,13 @@
 main:
 
+  - title: "Energy-efficient and SLA-aware Virtual Network Function Placement Using Predictive Auto-Scaling"
+    authors: Rojia Nikbazm, Mahmood Ahmadi, Mohammad Parsa Toopchinezhad
+    conference_short: Springer
+    conference: Computing, 2026.
+    pdf: https://link.springer.com/article/10.1007/s00607-025-01597-7
+    image: ./assets/img/vnf-1.png
+    notes: Published
+
   - title: "Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy and Future Directions"
     authors: Mohammad Parsa Toopchinezhad, Mahmood Ahmadi
     conference_short: Elsevier
