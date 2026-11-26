@@ -1,5 +1,13 @@
 main:
 
+  - title: "Seeing Through the Stack: Cross-Layer Observability and Forecasting in Video Streaming"
+    authors: Mohammad Parsa Toopchinezhad, Jashanjot Singh Sidhu, Abdelhak Bentaleb
+    conference_short: SIGMETRICS
+    conference: ACM International Conference on Measurement and Modeling of Computer Systems <strong>(SIGMETRICS)</strong>, 2027.
+    code: https://github.com/Procedurally-Generated-Human/Cross-Layer-Video-Streaming-Data-Generator
+    image: ./assets/img/cross-layer.png
+    notes: Accepted
+
   - title: "CADENCE: A Multi-Agent CDN Steering and Experimentation Platform for Dash.js"
     authors: Jashanjot Singh Sidhu, Mohammad Parsa Toopchinezhad, Abdelhak Bentaleb
     conference_short: MMSys
