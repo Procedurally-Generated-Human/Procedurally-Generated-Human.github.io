@@ -8,7 +8,7 @@ My full name is Mohammad Parsa Toopchinezhad. I'm a Computer Science Master's st
 
 <div style="background-color:rgba(1, 121, 236, 0.2); border-left:5px solid #3eb7f0; margin:20px; padding:7px 10px 7px 20px;">
 
-<i class="fa-solid fa-file-arrow-down"></i>&nbsp; <strong><a href="./assets/files/cv.pdf" download="Parsa-Toopchinezhad-CV.pdf">Download my CV</a></strong> (PDF)
+<i class="fa-solid fa-file-pdf"></i>&nbsp; <strong><a href="./assets/files/cv.pdf" target="_blank" rel="noopener">View my CV</a></strong> (PDF)
 
 </div>
 
