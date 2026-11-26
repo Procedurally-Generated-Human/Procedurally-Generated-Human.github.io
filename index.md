@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-My full name is Mohammad Parsa Toopchinezhad. I am a Master's student at Concordia University studying CS. My research primarily focuses on applying Machine Learning, particularly Reinforcement Learning, to solve various computer networking problems. Currently, I am working with my supervisor, [Dr. Bentaleb](https://scholar.google.com/citations?user=rRq6FiAAAAAJ&hl=en), to develop cross-layer network digital twins and agents for next-generation communication systems. 
+My full name is Mohammad Parsa Toopchinezhad. I'm a Computer Science Master's student at Concordia University in Montreal, advised by [Dr. Abdelhak Bentaleb](https://scholar.google.com/citations?user=rRq6FiAAAAAJ&hl=en). My research applies machine learning, especially reinforcement learning and AI agents, to make networks and video streaming more intelligent. For my thesis, I'm building cross-layer network digital twins: systems that observe the network stack end to end, forecast how it will behave, and act on those predictions.
 
-<div style="background-color:rgba(1, 121, 236, 0.2); border-left:5px solid #3eb7f0; margin:20px; padding:7px 10px 7px 20px; font-style:italic;">
+<div style="background-color:rgba(1, 121, 236, 0.2); border-left:5px solid #3eb7f0; margin:20px; padding:7px 10px 7px 20px;">
 
-The info on this page might be outdated. Please refer to <a href="https://procedurally-generated-human.github.io/assets/files/cv.pdf">my CV</a> for the latest.
+<i class="fa-solid fa-file-arrow-down"></i>&nbsp; <strong><a href="./assets/files/cv.pdf" download="Parsa-Toopchinezhad-CV.pdf">Download my CV</a></strong> (PDF)
 
 </div>
 
 ## Research Interests
 
-- **Reinforcement Learning:** applied, theoretical, model-based, meta-RL, multi-agent, ...
-- **Distributed Computing:** federated learning, geo-distributed training, ...
-- **Computer Networks:** queue management, routing, resource allocation, SDN, VNF, wireless, ...
-- **Machine Learning:** data augmentation, object detection, transfer learning, ...
+- **AI Infrastructure & Distributed ML:** distributed & federated training, GPU computing, networking for AI clusters
+- **Machine Learning:** deep learning, time-series forecasting, anomaly detection, LLMs & AI agents
+- **Reinforcement Learning:** deep, multi-agent, and model-based RL
+- **Computer Networks:** network optimization, network automation, SDN/NFV, 5G & wireless
+- **Video Streaming & Multimedia Systems:** adaptive bitrate streaming, CDN & content steering, QoE optimization
 
 {% include_relative _includes/publications.md %}
 
