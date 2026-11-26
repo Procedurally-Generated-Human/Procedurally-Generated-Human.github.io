@@ -1,5 +1,13 @@
 main:
 
+  - title: "CADENCE: A Multi-Agent CDN Steering and Experimentation Platform for Dash.js"
+    authors: Jashanjot Singh Sidhu, Mohammad Parsa Toopchinezhad, Abdelhak Bentaleb
+    conference_short: MMSys
+    conference: ACM Multimedia Systems Conference <strong>(MMSys)</strong>, 2026.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3793853.3798190
+    image: ./assets/img/cadence.png
+    notes: Published
+
   - title: "Energy-efficient and SLA-aware Virtual Network Function Placement Using Predictive Auto-Scaling"
     authors: Rojia Nikbazm, Mahmood Ahmadi, Mohammad Parsa Toopchinezhad
     conference_short: Springer
